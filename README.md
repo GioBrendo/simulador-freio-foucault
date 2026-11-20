@@ -2,6 +2,8 @@
 
 Simulador eletromecânico interativo em 3D desenvolvido em **Three.js** (módulos ES sem etapa de compilação) para análise física, validação numérica e apoio ao dimensionamento do protótipo de bancada da disciplina de **Conversão Eletromecânica de Energia** (6º Semestre).
 
+🌐 **Acesse online via GitHub Pages:** [https://giobrendo.github.io/simulador-freio-foucault/](https://giobrendo.github.io/simulador-freio-foucault/)
+
 ---
 
 ## 🎯 Objetivos do Projeto
