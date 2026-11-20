@@ -76,7 +76,7 @@ Todos os 40 testes de física cobrem saturação B-H, tempos de desaceleração,
 
 ---
 
-## 👥 Autores & Disciplina
+## 👥 Autor & Disciplina
 
 - **Desenvolvido por:** Giovanni Brendo
 - **Disciplina:** Conversão Eletromecânica de Energia
